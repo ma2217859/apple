@@ -1,0 +1,64 @@
+.width{width:1230px;margin:0 auto;}
+ .tou{line-height: 30px;font-size: 14px;font-family: "微软雅黑";color:#ccc;padding:8px;margin:0 auto;}
+ .tou-1 a{margin:0 30px;color:#ccc;text-decoration: none;}
+ .logo{float:left;}
+ .soukuang{float:right;}
+ .air a{float:left;font-size: 24px;font-family: "微软雅黑";color:#111;text-decoration: none;margin:20px 0;margin-left:0px;}
+ .xingneng a{font-size: 14px;font-family: "微软雅黑";margin:20px 8px;color:#111;text-decoration: none;float:right;}
+ .goumai{float:right;margin:0;}
+ .xiahuaxian{background:#999;height:1px;}
+ .cla{clear:both;}
+ .qing{font-size: 34px;font-family: "微软雅黑";text-align: center;margin-top:150px;}
+ .ipad-1{margin-left:150px;}
+ .yanjiang{font-size: 14px;font-family: "微软雅黑";text-decoration: none;text-align: center;}
+ .yanjiang a{text-decoration: none;}
+ .duoyou-1{font-size: 34px;font-family: "微软雅黑";padding-top:100px;text-align: center;}
+ .duoyou-2{font-size: 34px;font-family: "微软雅黑";text-align: center;}
+ .ipadd-2{margin-left:50px;}
+ .duiyu{font-size: 15px;font-family: "微软雅黑";text-decoration: none;text-align: center;padding:5px;}
+ .jinbu{font-size: 15px;font-family: "微软雅黑";text-decoration: none;text-align: center;padding:5px;}
+ .jinbu a{text-decoration: none;}
+ .liliang{font-size: 35px;font-family: "微软雅黑";text-align: center;padding:100px;}
+ .ipad-3{margin-left:120px;}
+ .a8{font-size: 15px;font-family: "微软雅黑";text-align: center;padding:20px;}
+ .jinbu2{font-size: 15px;font-family: "微软雅黑";text-decoration: none;text-align: center;padding:5px;}
+ .xiangji{font-size: 45px;font-family: "微软雅黑";text-align: center;margin:50px 0;}
+ .xiangji1{font-size: 15px;font-family: "微软雅黑";text-align: center;padding:5px;}
+ .xiangji2{font-size: 15px;font-family: "微软雅黑";text-decoration: none;text-align: center;padding:5px;}
+ .xiangji3{margin-left:150px;margin-top:50px;}
+ .wuxian{font-size: 35px;font-family: "微软雅黑";text-align: center;margin-top:50px;}
+ .wuxian1{font-size: 15px;font-family: "微软雅黑";text-align: center;margin-top:10px;}
+ .wuxianliaojie{font-size: 15px;font-family: "微软雅黑";text-align: center;margin-top:10px;}
+ .wuxiantu{margin-top:50px;margin-left:100px;}
+ .app{font-size: 35px;font-family: "微软雅黑";text-align: center;margin-top:50px;}
+ .app1{font-size: 15px;font-family: "微软雅黑";text-align: center;margin-top:10px;}
+ .app2{font-size: 15px;font-family: "微软雅黑";text-decoration: none;text-align: center;padding:5px;}
+ .app3{margin-top:50px;margin-left:100px;}
+ .baohuke{font-size: 35px;font-family: "微软雅黑";text-align: center;margin-top:50px;}
+ .baohuke1{font-size: 15px;font-family: "微软雅黑";text-align: center;margin-top:10px;}
+ .baohuke2{font-size: 15px;font-family: "微软雅黑";text-decoration: none;text-align: center;padding:5px;}
+ #footer{background:#F2F2F2;height:1350px;}
+ .baohuke3{margin-top:50px;margin-left:20px;}
+ .hezi-1{width:1230px;height:1350px;margin-left:100px;}
+ .hezi-2{width:1230px;height:350px;}
+ .hezi-3{width:1230px;height:300px;}
+ .hezi-4{width:1180px;height:100px;font-size: 8px;font-family: "微软雅黑";padding-left:50px;padding-top:50px;border-top:1px #999 solid;border-bottom:1px #777 solid;}
+ .hezi-5{width:1230px;height:400px;}
+ .hezi-6{width:1230px;height:20px;font-size: 15px;font-family: "微软雅黑";text-align: center;border-bottom:1px #999 solid;color:#999;}
+ .hezi-7{width:1230px;height:20px;font-size: 15px;font-family: "微软雅黑";text-align: center;color:#999;}
+ .hezi-2-1{width:250px;height:320px;float:left;margin-left:400px;margin-top:20px;}
+ .hezi-2-2{width:200px;height:220px;float:right;margin-right:350px;margin-top:20px;font-size: 25px;font-family: "微软雅黑";padding-top:80px;}
+ #bijiao{font-size: 15px;font-family: "微软雅黑";}
+ .hezi-3-1{width:250px;height:300px;float:left;margin-left:45px;font-size: 15px;font-family: "微软雅黑";text-align: center;color:#999;}
+ .hezi-3-2{width:250px;height:300px;float:left;margin-left:45px;font-size: 15px;font-family: "微软雅黑";text-align: center;color:#999;}
+ .hezi-3-3{width:250px;height:300px;float:left;margin-left:45px;font-size: 15px;font-family: "微软雅黑";text-align: center;color:#999;}
+ .hezi-3-4{width:250px;height:300px;float:left;margin-left:45px;font-size: 15px;font-family: "微软雅黑";text-align: center;color:#999;}
+ #mianfei{font-size: 25px;font-family: "微软雅黑";padding-top:10px;text-align: center;color:#999;}
+ .hezi-5-1{float:left;width:150px;height:350px;margin-left:30px;font-size: 10px;font-family: "微软雅黑";text-align: center;color:#999;}
+ .hezi-5-2{float:left;width:250px;height:350px;margin-left:30px;}
+ .hezi-5-3{float:left;width:200px;height:350px;margin-left:30px;}
+ .hezi-5-4{float:left;width:250px;height:350px;margin-left:30px;}
+ .hezi-5-5{float:left;width:200px;height:350px;margin-left:30px;}
+ .xuangou{font-size: 15px;font-family: "微软雅黑";text-align: center;}
+ .xuangou,li{list-style:none;text-align: center;font-size: 15px;font-family: "微软雅黑";color:#999;}
+ .shangdian{font-size: 15px;font-family: "微软雅黑";text-align: center;color:#999;}
